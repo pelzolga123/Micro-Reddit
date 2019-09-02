@@ -1,24 +1,17 @@
-# README
+# Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple app which simulates Reddit. It uses User, Post and Comments models and creates associations between them which simulate objects on a simple message board. Developed using Ruby on Rails.
 
-Things you may want to cover:
+## Configurations
+### From command line:
 
-* Ruby version
+```
+rails db:migrate
 
-* System dependencies
+rails console
 
-* Configuration
+```
+## Contributors
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [Tunde Oretade](https://github.com/tundeiness) 
+* [Olga Pelts](https://github.com/pelzolga123)
