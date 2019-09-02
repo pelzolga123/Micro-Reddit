@@ -7,5 +7,5 @@ class Comment < ApplicationRecord
   # Validation of user, post and body
   validates :user, presence: true
   validates :post, presence: true
-  validates :body, presence: true
+  validates :body, presence: true, length: {minimum: 5}
 end

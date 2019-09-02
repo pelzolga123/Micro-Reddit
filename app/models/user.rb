@@ -1,5 +1,4 @@
 class User < ApplicationRecord
-<<<<<<< HEAD
  # create association between user and post model
  has_many :posts
  # create association between user and comment model
@@ -7,9 +6,6 @@ class User < ApplicationRecord
 # Validation of username and body
  validates :username, presence: true, uniqueness: true, length: { maximum: 20 }
 
-
-
-=======
   before_save { email.downcase! }
   validates :username, presence: true, uniqueness: true,
             length: { maximum: 20 }
@@ -20,5 +16,4 @@ class User < ApplicationRecord
                                                              uniqueness: {
                                                               case_sensitive: false }
 
-                                                               user
 end
