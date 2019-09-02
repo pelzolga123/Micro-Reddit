@@ -8,7 +8,7 @@ class User < ApplicationRecord
  validates :username, presence: true, uniqueness: true, length: { maximum: 20 }
 
 
-  
+
 =======
   before_save { email.downcase! }
   validates :username, presence: true, uniqueness: true,
@@ -19,5 +19,6 @@ class User < ApplicationRecord
                                                              VALID_EMAIL_REGEX },
                                                              uniqueness: {
                                                               case_sensitive: false }
->>>>>>> user
+
+                                                               user
 end
