@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# this class checks if body and title of post, validates title lenght
+# creates necessary assotiations
 class Post < ApplicationRecord
   # create association between post and user model
   belongs_to :user
