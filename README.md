@@ -40,7 +40,7 @@ If the test suite passes, you'll be ready to explore the application functionali
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/pelzolga123/Weather-app/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/pelzolga123/Micro-Reddit/issues).
 
 1. Fork it (https://github.com/pelzolga123/Micro-Reddit/fork)
 2. Create your working branch (git checkout -b [choose-a-name])
