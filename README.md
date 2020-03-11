@@ -1,6 +1,10 @@
-# Micro-Reddit
+<h1 align="center">Micro-Reddit 👋</h1>
 
 This is a simple app which simulates Reddit. It uses User, Post and Comments models and creates associations between them which simulate objects on a simple message board. Developed using Ruby on Rails.
+
+
+## Built With
+* Ruby on Rails
 
 ## Getting started
 
@@ -24,8 +28,27 @@ If the test suite passes, you'll be ready to explore the application functionali
 
 ```$ rails console```
 
+## Authors
 
-## Contributors
+👤 **Olga Pelts**
+   - Github: [@pelzolga123](https://github.com/pelzolga123)
+   - LinkedIn: [Olga Pelts](https://www.linkedin.com/in/olga-pelts/)
 
-* [Tunde Oretade](https://github.com/tundeiness)
-* [Olga Pelts](https://github.com/pelzolga123)
+👤 **Tunde Oretade**
+   - Github: [@tundeiness](https://github.com/tundeiness)
+   - LinkedIn: [Tunde Oretade](https://www.linkedin.com/in/tundeoretade/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/pelzolga123/Weather-app/issues).
+
+1. Fork it (https://github.com/pelzolga123/Micro-Reddit/fork)
+2. Create your working branch (git checkout -b [choose-a-name])
+3. Commit your changes (git commit -am 'what this commit will fix/add')
+4. Push to the branch (git push origin feature/[feature-name])
+5. Create a new Pull Request
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
