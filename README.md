@@ -19,15 +19,15 @@ Next, migrate the database:
 ### Testing project
 * Run test
 
-```$ rails test```
+   ```$ rails test```
 
-or
+   or
 
-```rails test:models```
+   ```rails test:models```
 
 * If the test suite passes, you'll be ready to explore the application functionalities from the console:
 
-```$ rails console```
+   ```$ rails console```
 
 ## Authors
 
