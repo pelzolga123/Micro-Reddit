@@ -1,6 +1,6 @@
 <h1 align="center">Micro-Reddit 👋</h1>
 
-This is a simple app which simulates Reddit. It uses User, Post and Comments models and creates associations between them which simulate objects on a simple message board. Developed using Ruby on Rails.
+This is a simple app that simulates Reddit. It uses User, Post and Comment models and creates associations between them that simulate objects on a simple message board. Developed using Ruby on Rails.
 
 
 ## Built With
